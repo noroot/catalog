@@ -257,6 +257,12 @@ projects:
   pypi_id: mkdocs-shadcn
   labels: [theme, plugin]
   category: theming
+- name: Cwd
+  mkdocs_theme: cwd
+  github_id: catwatchdog/mkdocs-cwd
+  pypi_id: mkdocs-cwd
+  labels: [theme]
+  category: theming
 
 - name: automacdoc
   github_id: AlexandreKempf/automacdoc
